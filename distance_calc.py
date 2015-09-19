@@ -48,5 +48,5 @@ class DistanceCalculator:
         return self.__API_key
 
     @API_key.setter
-    def set_api_key(self, key):
+    def API_key(self, key):
         self.__API_key = key
